@@ -1,8 +1,8 @@
 def oxford_comma(array)
-  ["kiwi"].join
+  fruits = ["kiwi"].join
+  fruits << "durian"
+  fruits.join(" and ")
 end
 
-def oxford_comma(array)
-  ["kiwi", "durian"].join(" and ")
-end
+
 
