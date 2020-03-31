@@ -4,7 +4,6 @@ array2 = ["kiwi", "durian"].join("and")
 
 end
 
-return array
 
 
 
